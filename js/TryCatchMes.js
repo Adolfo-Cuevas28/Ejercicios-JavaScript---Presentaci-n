@@ -1,5 +1,5 @@
 try { 
-    monthName = NombreMes(12); // La función podría lanzar una excepción
+    monthName = NombreMes(12); // La función podría lanzar una excepción :)
     console.log(monthName);
 }
 catch (excepcion) {
